@@ -366,6 +366,10 @@ main .profile {
     font-weight: 400;
 }
 
+.reactlaconf {
+    color: #3B2DCC;
+}
+
 .profile-social a {
     transition: color 0.3s ease 0s;
     margin: 0 6px;
