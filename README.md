@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://willyprados.github.io/PW/">
-    <img alt="Astronaut" src="img/astronaut.png" width="60" />
+    <img alt="Astronaut" src="img/astronauta.png" width="60" />
   </a>
 </p>
 <h1 align="center">
