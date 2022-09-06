@@ -374,7 +374,9 @@ main .profile {
   top: -82px;
   border-radius: 50%;
   width: 134px;
-  box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75);
+  /* box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.75); 0px 7px 29px 0px*/
+  /* box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; */
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 7px 29px 0px;
 }
 
 .profile-name {

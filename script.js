@@ -75,10 +75,10 @@ worksCategories.addEventListener("click", function (e) {
       ? worksCategories.children[i].classList.add("selected")
       : worksCategories.children[i].classList.remove("selected");
 
-    console.log(e.target.innerHTML.toLowerCase());
-    "All" === e.target.innerHTML.toLowerCase()
-      ? worksContainers[i].classList.remove("hidden")
-      : worksContainers[i].classList.add("hidden");
+    // console.log(e.target.innerHTML.toLowerCase());
+    // "All" === e.target.innerHTML.toLowerCase()
+    //   ? worksContainers[i].classList.remove("hidden")
+    //   : worksContainers[i].classList.add("hidden");
 
     // if ("All" === e.target.innerHTML.toLowerCase())
     //   worksContainers[i].classList.remove("hidden");
