@@ -1106,6 +1106,7 @@ main .contact {
     overflow: auto;
     opacity: 1;
     transform: translateX(-8px);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 7px 29px 0px;
   }
   main .view::-webkit-scrollbar {
     width: 5px;
