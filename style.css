@@ -225,6 +225,10 @@ button:focus {
   position: relative;
 }
 
+.line-down.hidden {
+  display: none;
+}
+
 .line-down::after {
   position: absolute;
   left: 0;
@@ -800,8 +804,8 @@ main .profile {
   text-align: left;
 }
 
-.resume-skills > div section > div {
-  padding: 18px 20px;
+.resume-skills > div section > p {
+  padding: 0px 20px;
 }
 
 .resume-skills > div section > div > div:first-child {
